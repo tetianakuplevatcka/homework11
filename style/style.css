@@ -8,18 +8,19 @@ body {
 div {
     margin: 0 auto;
     margin-top: 120px;
-    width: 800px;
+    width: 840px;
 
 }
 
 h1 {
     margin-bottom: 50px;
     text-align: center;
-    color: white;
+    color: rgb(236, 132, 132);
     font-size: 60px;
     text-transform: uppercase;
 }
 
 img {
     width: 800px;
+    border: 20px solid rgb(236, 132, 132);
 }
